@@ -8,5 +8,10 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Lv2Sic\\Ide\\": "src/"
+        }
+    },    
     "require": {}
 }
