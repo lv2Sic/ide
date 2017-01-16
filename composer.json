@@ -1,0 +1,12 @@
+{
+    "name": "lv2sic/ide",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Frederic Lacerte",
+            "email": "flacerte@i-dma.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
